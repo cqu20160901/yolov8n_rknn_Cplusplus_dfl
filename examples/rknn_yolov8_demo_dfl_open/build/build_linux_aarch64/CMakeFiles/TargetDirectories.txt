@@ -1,0 +1,7 @@
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov8_demo_dfl_open/build/build_linux_aarch64/CMakeFiles/install/strip.dir
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov8_demo_dfl_open/build/build_linux_aarch64/CMakeFiles/install/local.dir
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov8_demo_dfl_open/build/build_linux_aarch64/CMakeFiles/install.dir
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov8_demo_dfl_open/build/build_linux_aarch64/CMakeFiles/list_install_components.dir
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov8_demo_dfl_open/build/build_linux_aarch64/CMakeFiles/rebuild_cache.dir
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov8_demo_dfl_open/build/build_linux_aarch64/CMakeFiles/edit_cache.dir
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov8_demo_dfl_open/build/build_linux_aarch64/CMakeFiles/rknn_yolov8_demo.dir
