@@ -55,4 +55,7 @@ int main(int argc, char **argv)
 
 ![image](https://github.com/cqu20160901/yolov8n_rknn_Cplusplus_dfl/assets/22290931/71e03ce6-df59-4746-855e-df77889d6ce5)
 
+2024年1月12日：后处理代码有所优化，后处理时耗大幅度降低。（检测类别越多效果越明显，检测1个类别就没有优化效果，代码已同步到对应的代码仓中）
+
+![image](https://github.com/cqu20160901/yolov8n_rknn_Cplusplus_dfl/assets/22290931/14683b96-11f3-4c2c-a71c-f79705577645)
 
